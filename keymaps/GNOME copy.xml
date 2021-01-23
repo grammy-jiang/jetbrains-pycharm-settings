@@ -1,0 +1,20 @@
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="Tool_External Tools_bandit">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="b" />
+  </action>
+  <action id="Tool_External Tools_black">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="shift b" />
+  </action>
+  <action id="Tool_External Tools_isort">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="i" />
+  </action>
+  <action id="Tool_External Tools_mypy">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="m" />
+  </action>
+  <action id="Tool_External Tools_pylint">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="p" />
+  </action>
+  <action id="Tool_External Tools_radon">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="r" />
+  </action>
+</keymap>
